@@ -12,25 +12,17 @@ const TEMPLATE_CONFIG = [
       
       城市：{{city.DATA}}
       
-      天气：{{tian_api_weather_weather_0.DATA}}
+      天气：{{weather.DATA}}
       
       气温(最高/最低):{{max_temperature.DATA}} / {{min_temperature.DATA}}
       
       风向: {{wind_direction.DATA}}
       
       风级: {{wind_scale.DATA}}
-
-      降水概率： {{tian_api_weather_pop_0.DATA}}
       
       {{notice.DATA}}
       
       {{comprehensive_horoscope.DATA}}
-      
-      ---
-      早上的话：{{tian_api_morning_greeting.DATA}}
-      
-      今天的热点新闻：
-      {{tian_api_network_hot.DATA}}
       
       ---
       今天是我们在一起的第{{love_day.DATA}}天

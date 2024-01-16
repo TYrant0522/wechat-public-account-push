@@ -76,7 +76,7 @@ const USER_CONFIG = {
   "USERS":[{
     "name":"宝宝",
     "id":"oqB1Y6lhPGMg1147sLeBSW43gH3M",
-    "useTemplateId":"spg6pHkVqGt9y6gNQH-s9ge-tZWLt4Pv2fFChv-mMaE",
+    "useTemplateId":"7QaBkXGhD2rtdF72lGgnITJeV0B1pb1t14lZbZE7YrA",
     "province":"上海",
     "city":"上海",
     "horoscopeDate":"07-17",

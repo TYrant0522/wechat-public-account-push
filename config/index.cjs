@@ -6,9 +6,9 @@
  * 自行添加属性，以支持更多个性化功能
  */
 const USER_CONFIG = {
-  USE_PASSAGE: 'wechat-test',
-  //USE_PASSAGE: 'push-deer',
-  /*
+  //USE_PASSAGE: 'wechat-test',
+  USE_PASSAGE: 'push-deer',
+  
   // 使用微信测试号：公众号APP_ID
   APP_ID: '',
 
@@ -64,7 +64,7 @@ const USER_CONFIG = {
   ],
 
 }
-*/
+/*
   "APP_ID":"wx02c2e4bb67b58445",
   "APP_SECRET":"cedd2dbf6addf1517ad1400a9e5cbd51",
   "IS_SHOW_COLOR":true,
@@ -109,5 +109,5 @@ const USER_CONFIG = {
     "birthdayMessage":true
   }
 }
-
+*/
 module.exports = USER_CONFIG

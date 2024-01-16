@@ -65,6 +65,49 @@ const USER_CONFIG = {
 
 }
 */
-"APP_ID":"wx02c2e4bb67b58445","APP_SECRET":"cedd2dbf6addf1517ad1400a9e5cbd51","IS_SHOW_COLOR":false,"CALLBACK_TEMPLATE_ID":"spyy8b6dMOghK-muOiHefGGvN7GWFkhaqBlTGNq9OHU","CALLBACK_USERS":[{"name":"自己","id":"oqB1Y6mY9MzM7xIEUK1UknELxZ3s"}],"USERS":[{"name":"宝宝","id":"oqB1Y6mY9MzM7xIEUK1UknELxZ3s","useTemplateId":"DsVzaNs1UHvgsK3MXlVVKYwAFqUcGM_53b_0z2ATbus\t","province":"上海","city":"上海","horoscopeDate":"07-17","horoscopeDateType":"今日","openUrl":"https://shuangxunian.github.io/","festivals":[{"type":"生日","name":"亲亲宝宝老婆","date":"07-17","year":"1998"},{"type":"节日","name":"相识纪念日","date":"04-25","year":"2023"}],"customizedDateList":[{"keyword":"love_day","date":"2023-08-08"}]}],"SWITCH":{"weather":true,"holidaytts":true,"CIBA":true,"oneTalk":false,"earthyLoveWords":false,"momentCopyrighting":false,"poisonChickenSoup":false,"poetry":false,"horoscope":false,"birthdayMessage":true}}
+  "APP_ID":"wx02c2e4bb67b58445",
+  "APP_SECRET":"cedd2dbf6addf1517ad1400a9e5cbd51",
+  "IS_SHOW_COLOR":false,
+  "CALLBACK_TEMPLATE_ID":"spyy8b6dMOghK-muOiHefGGvN7GWFkhaqBlTGNq9OHU",
+  "CALLBACK_USERS":[{
+    "name":"自己",
+    "id":"oqB1Y6mY9MzM7xIEUK1UknELxZ3s"
+  }],
+  "USERS":[{
+    "name":"宝宝",
+    "id":"oqB1Y6mY9MzM7xIEUK1UknELxZ3s",
+    "useTemplateId":"DsVzaNs1UHvgsK3MXlVVKYwAFqUcGM_53b_0z2ATbus\t",
+    "province":"上海",
+    "city":"上海",
+    "horoscopeDate":"07-17",
+    "horoscopeDateType":"今日",
+    "openUrl":"https://shuangxunian.github.io/",
+    "festivals":[{
+      "type":"生日",
+      "name":"亲亲宝宝老婆",
+      "date":"07-17",
+      "year":"1998"
+    },{
+      "type":"节日",
+      "name":"相识纪念日",
+      "date":"04-25",
+      "year":"2023"}],
+    "customizedDateList":[{
+      "keyword":"love_day",
+      "date":"2023-08-08"
+    }]}],
+  "SWITCH":{
+    "weather":true,
+    "holidaytts":true,
+    "CIBA":true,
+    "oneTalk":false,
+    "earthyLoveWords":false,
+    "momentCopyrighting":false,
+    "poisonChickenSoup":false,
+    "poetry":false,
+    "horoscope":false,
+    "birthdayMessage":true
+  }
+}
 
 module.exports = USER_CONFIG
